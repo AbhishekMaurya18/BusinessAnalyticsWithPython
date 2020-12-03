@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 30 10:26:13 2020
 
-@author: DELL
+@author: Abhishek Maurya
 """
 """
 for loop is used in case where we need to execute some part of the code until the given condition
